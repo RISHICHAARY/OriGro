@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+.banners {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.home .banners .top-banner1 {
+  max-width: 100%;
+  height: 300px;
+  padding: 32px;
+}
+
+.home .top-combos {
+  color: #2dc653;
+  margin: 15px;
+  text-align: center;
+}
+
+.home .top-combos {
+  color: #2dc653;
+  margin: 15px;
+  text-align: center;
+}
+
+.center {
+  justify-content: space-between;
+}
+
+.flex {
+  display: flex;
+}
+
+.combo-font-size {
+  font-size: 20px;
+}
+
+.top-combo-products {
+  padding-left: 150px;
+  padding-right: 120px;
+  margin-top: 25px;
+}
+
+.top-combo-products img {
+  max-width: 80%;
+  padding: 10px 0px 10px 10px;
+  margin-right: 0;
+}
+
+.top-combo-products .top-combo-product1 {
+  border-radius: 20px;
+  /* border: 1px solid grey; */
+}
+
+.top-combo-products .top-combo-product2 {
+  border-radius: 20px;
+  /* border: 1px solid grey; */
+}
+
+/* button {
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #2dc653;
+  height: 40px;
+  width: 110px;
+  cursor: pointer;
+} */
+
+.padding-combo-details {
+  padding: 10px 10px 10px 10px;
+}
